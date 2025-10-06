@@ -1,45 +1,23 @@
-# 👋 Salut, moi c'est Houssam !
+# 👋 Salut, moi c’est Houssam !
 
-🎓 Étudiant passionné en Génie Informatique  
-🔒 Intéressé par la **Cybersécurité**, le **Développement Web** et les **nouvelles technologies**
+🎓 Étudiant passionné par la **cybersécurité**, l’**algorithmique** et le **développement Java / Python**.  
+🔍 J’aime explorer les systèmes, comprendre comment ils fonctionnent et comment les sécuriser.
 
----
+## 🛠️ Compétences techniques
+- **Langages :** Python, C, Java, SQL, Bash
+- **Cybersécurité :** Kali Linux, Wireshark, Nmap, Burp Suite
+- **Web :** HTML, CSS, PHP (basique), Flask
+- **Outils :** Git, VS Code, VirtualBox, Metasploit
 
-## 💡 Ce que j'apprends actuellement :
-- 🔐 Authentification sécurisée (WebAuthn, Face ID, etc.)
-- 🌐 Développement web (HTML, CSS, JS, Node.js)
-- 🖥️ Programmation en C & Python
-- 🕸️ Réseaux & Systèmes (TP, projets, Cisco NetAcad)
+## 🚀 Projets intéressants
+🔹 [datawho.py](https://github.com/tonpseudo/datawho) — Scanner d’informations CMS + admin (en développement)  
+🔹 [CesarCrypt](https://github.com/tonpseudo/cesarcrypt) — Chiffrement et déchiffrement en C  
+🔹 [Java-NotesApp](https://github.com/tonpseudo/java-notesapp) — Application console pour gérer les notes
 
----
+## 📊 Statistiques GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=tokyonight)
+![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=tokyonight)
 
-## 🔧 Projets en cours :
-- 🛡️ Outil de connexion sécurisée avec **Face ID**
-- 📄 Page CV en HTML & CSS
-- 🌍 Portfolio personnel à venir
-
----
-
-## ⚙️ Compétences :
-- Langages : `C`, `HTML`, `CSS`, `JavaScript`
-- Outils : , `Git`, `Linux`, `VS Code`
-- Concepts : Réseaux, Bases de données, Sécurité web ... 
-
----
-
-## 🌱 Ce que je veux apprendre :
-- React.js & MongoDB
-- Pentesting & Ethical Hacking
-- python & java
-
----
-
-## 📫 Me contacter :
-- ✉️ houssamelbouamraoui@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/el-bouamraoui-houssam-0569a1326) 
-- 🌐 Portfolio *(en construction)*
-
----
-
-> *"Le code, c’est comme la magie... mais en mieux quand on sait ce qu’on fait !"*
-
+## 📫 Me contacter
+📧 [tonemail@gmail.com](mailto:tonemail@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/tonprofil/)
